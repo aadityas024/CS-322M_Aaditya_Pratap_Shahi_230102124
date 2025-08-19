@@ -14,7 +14,7 @@ The output `y` generates a **1-cycle pulse** when the complete sequence is detec
 - State transitions handle overlapping sequences (e.g., `1101101` triggers two detections).  
 - Output `y=1` is asserted only when the complete pattern `1101` is detected.  
 
-![State Diagram](https://github.com/user-attachments/assets/0ce83508-9a08-42a8-af7d-72b6f3b426d4)
+![State Diagram](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem1_seqdet/state_dig.jpeg)
 ![Block Design](https://github.com/user-attachments/assets/b54f6003-c9cb-42f5-b0d0-f8b14e0d7450)
 
 ---
