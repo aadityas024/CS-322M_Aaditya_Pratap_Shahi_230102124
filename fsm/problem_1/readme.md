@@ -15,7 +15,7 @@ The output `y` generates a **1-cycle pulse** when the complete sequence is detec
 - Output `y=1` is asserted only when the complete pattern `1101` is detected.  
 
 ![State Diagram](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm/problem_1/state_dig.jpeg)
-![Block Design](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem1_seqdet/block_dig.jpeg)
+![Block Design](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm/problem_1/block_dig.jpeg)
 
 ---
 
