@@ -45,6 +45,6 @@ We model the total inserted amount as states:
 - When total = 25 → `vend = 1` and `chg5 = 1` for 1 cycle.  
 - After dispensing → FSM resets back to **S0**.  
 
-![Waveform](https://github.com/user-attachments/assets/50979755-0ba3-4950-ab8c-639ea8d0695d)
+![Waveform](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem3_vending/wave.jpeg)
 
 
