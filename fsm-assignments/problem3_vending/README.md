@@ -16,7 +16,7 @@ The vending machine accepts coins of **₹5** and **₹10** denominations to pur
 
 ---
 
-## ⚙️ FSM States
+## FSM States
 We model the total inserted amount as states:
 
 - **total_0** – total = 0  
@@ -26,21 +26,21 @@ We model the total inserted amount as states:
 
 ---
 
-## 📊 State Diagram
+## State Diagram
 ![State Diagram](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem3_vending/state_dig.jpeg)
 
 
 
 ---
 
-## 🔍 Why Mealy?
+## Why Mealy?
 - **Mealy FSM** generates outputs based on **present state + input**.  
 - This allows **`vend`** and **`chg5`** signals to be triggered immediately in the same cycle when the required total is reached, instead of waiting for a state transition (like in Moore).  
 - This ensures **faster response** when the target value is hit.
 
 ---
 
-## 📈 Example Waveform
+## Example Waveform
 - When total = 20 → `vend = 1` for 1 clock cycle.  
 - When total = 25 → `vend = 1` and `chg5 = 1` for 1 cycle.  
 - After dispensing → FSM resets back to **S0**.  
