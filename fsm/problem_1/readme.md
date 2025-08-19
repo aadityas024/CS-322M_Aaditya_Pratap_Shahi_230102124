@@ -24,7 +24,7 @@ The testbench generates serial input streams on `din`.
 - `y` pulses high for **1 clock cycle** whenever the pattern `1101` is detected.  
 - Overlapping sequences are supported: e.g., input `1101101` produces **two detection pulses**.  
 
-![Waveform](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem1_seqdet/wave.jpeg)
+![Waveform](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm/problem_1/wave.jpeg)
 
 ## How to Run (Vivado)
 
