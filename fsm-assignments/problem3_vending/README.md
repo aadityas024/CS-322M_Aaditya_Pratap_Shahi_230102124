@@ -3,7 +3,7 @@
 This project implements a **Vending Machine Finite State Machine (FSM)** in Verilog.  
 The vending machine accepts coins of **₹5** and **₹10** denominations to purchase an item worth **₹20**.  
 
-## 🛠 Features
+## Features
 - **Accepted coins:** 5 or 10 units (`coin[1:0]`)
   - `01` = ₹5  
   - `10` = ₹10  
