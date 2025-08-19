@@ -27,7 +27,7 @@ We model the total inserted amount as states:
 ---
 
 ## 📊 State Diagram
-![State Diagram](https://github.com/user-attachments/assets/00d2bee0-e510-46b3-b070-83968623bc93)
+![State Diagram](https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124/blob/main/fsm-assignments/problem3_vending/state_dig.jpeg)
 
 
 
