@@ -45,19 +45,7 @@ The testbench generates serial input streams on `din`.
 | `1101`               | Pulse at the last bit   |
 | `1101101`            | Two pulses (overlap)    |
 | `11101`              | Pulse when last `1` arrives |
-| `01101101`           | Two pulses              |
-
----
-
-## GitHub Submission
-- **Repository URL**: *[(https://github.com/spandanb10745/CS322M-230102108)]*  
-- **Final Commit Hash**: *[replace with latest commit hash]*  
-
----
-
-## Author
-- **Name**: *SPANDAN BHARADWAJ*  
-- **Course/Assignment**: *CS_322_M*  
+| `01101101`           | Two pulses              |  
 
 
 
