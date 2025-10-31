@@ -125,7 +125,7 @@ brew install icarus-verilog gtkwave
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/rvx10_P.git
+git clone https://github.com/aadityas024/CS-322M_Aaditya_Pratap_Shahi_230102124.git
 cd rvx10_P
 2. Build the Design
 bash
